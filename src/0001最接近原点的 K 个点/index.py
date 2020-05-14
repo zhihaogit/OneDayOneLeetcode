@@ -1,3 +1,5 @@
+import random
+
 class Resolution(object):
     # 方法1
     def kClosest1(self, points, K):
@@ -24,7 +26,9 @@ class Resolution(object):
         def work(left, right, K):
             if left >= right: return
             oLeft, oRight = left, right
-            pivot = dist(int((left + right) / 2))
+            random_index = random.randint(left, right)
+            index = int((left + right) / 2) if random_index == left or random_index == right else random_index
+            pivot = dist(index)
             while left < right :
                 while left < right and dist(left) < pivot: left += 1
                 while left < right and dist(right) > pivot: right -= 1
@@ -39,7 +43,7 @@ class Resolution(object):
         return points[:K]
 
 if __name__ == '__main__':
-    points = [[3,3],[5,-1],[-2,4],[1,3],[-2,2],[-3,2],[-4,2],[-1,2],[0,2],[4,2],[2,2]]
+    points = [[3, 3], [5, -1], [-2, 4], [1, 3], [-2, 2], [-3, 2], [-4, 2], [-1, 2], [0, 2], [4, 2], [2, 2], [2, 2]]
     K = 2
     ins = Resolution()
     final1 = ins.kClosest1(points, K)

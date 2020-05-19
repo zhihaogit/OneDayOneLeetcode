@@ -1,4 +1,4 @@
-class Resolution:
+class Solution:
     def findClosedNumbers(self, num):
         '''
         较小数：找到 尽可能低位的 模式串'10' 翻转
@@ -29,6 +29,6 @@ class Resolution:
 
 
 if __name__ == '__main__':
-    ins = Resolution()
+    ins = Solution()
     final1 = ins.findClosedNumbers(20)
     print(final1, bin(final1[0]), bin(final1[1]))

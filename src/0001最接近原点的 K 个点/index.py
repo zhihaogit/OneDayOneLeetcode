@@ -1,6 +1,6 @@
 import random
 
-class Resolution(object):
+class Solution(object):
     # 方法1
     def kClosest1(self, points, K):
         '''
@@ -45,7 +45,7 @@ class Resolution(object):
 if __name__ == '__main__':
     points = [[3, 3], [5, -1], [-2, 4], [1, 3], [-2, 2], [-3, 2], [-4, 2], [-1, 2], [0, 2], [4, 2], [2, 2], [2, 2]]
     K = 2
-    ins = Resolution()
+    ins = Solution()
     final1 = ins.kClosest1(points, K)
     final2 = ins.kClosest2(points, K)
     print (final1, final2)

@@ -1,4 +1,4 @@
-class Resolution {
+class Solution {
   constructor() {
     arr = ['A', 'L', 'P']
   }
@@ -29,6 +29,6 @@ class Resolution {
   }
 }
 
-const ins = new Resolution();
+const ins = new Solution();
 final1 = ins.checkRecord1(2);
 console.log(final1);

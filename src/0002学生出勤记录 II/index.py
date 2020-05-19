@@ -1,7 +1,7 @@
 import random
 
 
-class Resolution(object):
+class Solution(object):
     # 方法1
     def checkRecord1(self, n):
         '''
@@ -28,6 +28,6 @@ class Resolution(object):
 
 
 if __name__ == '__main__':
-    ins = Resolution()
+    ins = Solution()
     final1 = ins.checkRecord1(2)
     print(final1)

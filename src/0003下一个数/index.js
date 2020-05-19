@@ -1,4 +1,4 @@
-class Resolution {
+class Solution {
   findClosedNumbers(num) {
     const [numBin, numOrigin] = this.decimal2Bin(num);
     if (!numOrigin.includes('0')) return [`10${numOrigin.slice(1)}`, -1];
@@ -46,6 +46,6 @@ class Resolution {
 }
 
 
-ins = new Resolution();
+ins = new Solution();
 final1 = ins.findClosedNumbers(20);
 console.log(final1);

@@ -1,4 +1,4 @@
-class Resolution {
+class Solution {
   // 方法1 排序取值
   kClosest1(points, K) {
     return points
@@ -32,7 +32,7 @@ class Resolution {
 const points = [[3, 3], [5, -1], [-2, 4], [1, 3], [-2, 2], [-3, 2], [-4, 2], [-1, 2], [0, 2], [4, 2], [2, 2]];
 const K = 2;
 
-const ins = new Resolution();
+const ins = new Solution();
 const final1 = ins.kClosest1(points, K);
 const final2 = ins.kClosest2(points, K);
 

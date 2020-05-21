@@ -14,3 +14,4 @@
 3. [0003下一个数](https://leetcode-cn.com/problems/closed-number-lcci/)
 4. [0004恢复空格](https://leetcode-cn.com/problems/re-space-lcci/)
 5. [0005不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+6. [0006最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)

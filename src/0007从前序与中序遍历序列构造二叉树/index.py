@@ -21,6 +21,32 @@ class TreeNode:
 
 class Solution:
     def buildTree(self, preorder, inorder):
+        # 为 inorder生成哈希映射 value -> key的映射
+        index = {ele: i for i, ele in enumerate(inorder)}
+        def myBuildTree(preorder_left, preorder_right, inorder_left, inorder_right):
+            # 设置 递归终止条件
+            if preorder_left > preorder_right:
+                return None
+            # 拿到 前序里面根节点的位置
+            preorder_root = preorder_left
+            # 拿到 中序里面根节点的位置
+            inorder_root = index[preorder[preorder_root]]
+            # 生成 root的 nodeTree
+            root = TreeNode(preorder[preorder_root])
+            # 找到左子树的长度
+            size_left_subtree = inorder_root - inorder_left
+            # 递归地构造左子树，并连接到根节点
+            # 先序遍历中「从 左边界+1 开始的 size_left_subtree」个元素就对应了中序遍历中「从 左边界 开始到 根节点定位-1」的元素
+            root.left = myBuildTree(preorder_left + 1, preorder_left + size_left_subtree, inorder_left, inorder_root - 1)
+            # 递归地构造右子树，并连接到根节点
+            # 先序遍历中「从 左边界+1+左子树节点数目 开始到 右边界」的元素就对应了中序遍历中「从 根节点定位+1 到 右边界」的元素
+            root.right = myBuildTree(preorder_left + size_left_subtree + 1, preorder_right, inorder_root + 1, inorder_right)
+            return root
+
+        n = len(preorder)
+        return myBuildTree(0, n - 1, 0, n - 1)
+
+
 
 
 if __name__ == '__main__':
@@ -28,5 +54,5 @@ if __name__ == '__main__':
     inorder = [9, 3, 15, 20, 7]
     ins = Solution()
     final1 = ins.buildTree(preorder, inorder)
-    # final2 = ins.numTrees2(n)
-    print(final1)
+    print (final1.val, final1.left, final1.right)
+    

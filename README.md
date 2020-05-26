@@ -17,3 +17,4 @@
 6. [0006最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 7. [0007从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 8. [0008LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+9. [0009相同的树](https://leetcode-cn.com/problems/same-tree/)

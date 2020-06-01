@@ -9,7 +9,7 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-var isBalanced = function(root) {
+var isBalanced = function (root) {
   const check = root => {
     if (!root) return [true, -1];
     const [isLeftBalanced, leftHeight] = check(root.left);

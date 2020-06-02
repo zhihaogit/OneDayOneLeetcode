@@ -11,16 +11,16 @@
  */
 var levelOrderBottom1 = function (root) {
   result = []
-  const recusion = (root, depth) => {
+  const recursion = (root, depth) => {
     if (!root) return;
     if (result.length === depth) {
       result.unshift([]);
     }
     result[result.length - depth - 1].push(root.val);
-    recusion(root.left, depth + 1);
-    recusion(root.right, depth + 1);
+    recursion(root.left, depth + 1);
+    recursion(root.right, depth + 1);
   };
-  recusion(root, 0);
+  recursion(root, 0);
   return result;
 };
 

@@ -14,15 +14,15 @@ class Solution:
     def levelOrderBottom1(self, root: TreeNode) -> List[List[int]]:
         result = []
 
-        def recusion(root, depth):
+        def recursion(root, depth):
             if not root:
                 return
             if len(result) == depth:
                 result.insert(0, [])
             result[-(depth + 1)].append(root.val)
-            recusion(root.left, depth + 1)
-            recusion(root.right, depth + 1)
-        recusion(root, 0)
+            recursion(root.left, depth + 1)
+            recursion(root.right, depth + 1)
+        recursion(root, 0)
         return result
 
     def levelOrderBottom1(self, root: TreeNode) -> List[List[int]]:

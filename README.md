@@ -38,3 +38,4 @@
 27. [0027求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 28. [0028两数之和](https://leetcode-cn.com/problems/two-sum/)
 29. [0029两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+30. [0030二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)

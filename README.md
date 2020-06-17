@@ -40,3 +40,4 @@
 29. [0029两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 30. [0030二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 31. [0031二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+32. [0032二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)

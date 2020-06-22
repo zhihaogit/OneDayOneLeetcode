@@ -44,3 +44,4 @@
 33. [0033二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 34. [0034完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
 35. [0035翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+36. [0036二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)

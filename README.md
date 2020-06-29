@@ -49,3 +49,4 @@
 38. [0038二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 39. [0039压缩字符串](https://leetcode-cn.com/problems/string-compression/)
 40. [0040学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)
+41. [0041无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)

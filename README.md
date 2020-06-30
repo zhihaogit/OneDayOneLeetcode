@@ -52,3 +52,4 @@
 41. [0041无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 42. [0042二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 43. [0043恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)
+44. [0044二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)

@@ -56,3 +56,4 @@
 45. [0045打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
 46. [0046寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 47. [0047Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+48. [0048整数反转](https://leetcode-cn.com/problems/reverse-integer/)

@@ -57,3 +57,4 @@
 46. [0046寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 47. [0047Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
 48. [0048整数反转](https://leetcode-cn.com/problems/reverse-integer/)
+49. [0049字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)

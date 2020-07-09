@@ -58,3 +58,4 @@
 47. [0047Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
 48. [0048整数反转](https://leetcode-cn.com/problems/reverse-integer/)
 49. [0049字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+50. [0050左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)

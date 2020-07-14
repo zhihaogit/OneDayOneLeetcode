@@ -60,3 +60,4 @@
 49. [0049字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 50. [0050左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
 51. [0051N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
+52. [0052二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)

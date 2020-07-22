@@ -69,3 +69,4 @@
 58. [0058最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 59. [0059三数之和](https://leetcode-cn.com/problems/3sum/)
 60. [0060最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)
+61. [0061序列化和反序列化二叉搜索树](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/)

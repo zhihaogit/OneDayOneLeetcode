@@ -75,4 +75,5 @@
 63. [0063四数之和](https://leetcode-cn.com/problems/4sum/)
 64. [0064删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 65. [0065有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
-66. [0066有效的括号](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+66. [0066合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+67. [0067括号生成](https://leetcode-cn.com/problems/generate-parentheses/)

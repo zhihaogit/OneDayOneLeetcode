@@ -77,3 +77,4 @@
 65. [0065有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 66. [0066合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 67. [0067括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+68. [0068删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)

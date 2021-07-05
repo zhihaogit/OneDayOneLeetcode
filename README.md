@@ -1,4 +1,5 @@
 ## Leetcode solution
+- Python3 code first
 
 ### update frequency
 - One day one problem
@@ -83,3 +84,4 @@
 71. [0071移除元素](https://leetcode-cn.com/problems/remove-element/)
 72. [0072实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 73. [0073两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
+74. [0074串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)

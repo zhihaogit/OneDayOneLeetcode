@@ -12,7 +12,7 @@
 
 
 class Solution:
-   # 双指针
+    # 双指针
     def maxArea(self, height: List[int]) -> int:
         l, r, res = 0, len(height) - 1, 0
         while l < r:

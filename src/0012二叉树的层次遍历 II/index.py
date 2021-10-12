@@ -40,7 +40,7 @@ class Solution:
         recursion(root, 0)
         return result
 
-    def levelOrderBottom1(self, root: TreeNode) -> List[List[int]]:
+    def levelOrderBottom2(self, root: TreeNode) -> List[List[int]]:
         if not root:
             return []
         result = []

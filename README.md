@@ -86,3 +86,4 @@
 73. [0073两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
 74. [0074串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
 75. [0075下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+76. [0076大餐计数](https://leetcode-cn.com/problems/count-good-meals/)

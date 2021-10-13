@@ -14,8 +14,8 @@ class Solution {
     return d[d.length - 1] - 1;
   }
 }
-dictionary = ["looked", "just", "like", "her", "brother", "brother"]
-sentence = "jesslookedjustliketimherbrotherbrotherher"
-ins = new Solution()
-final1 = ins.respace(dictionary, sentence)
-console.log(final1)
+dictionary = ["looked", "just", "like", "her", "brother", "brother"];
+sentence = "jesslookedjustliketimherbrotherbrotherher";
+ins = new Solution();
+final1 = ins.respace(dictionary, sentence);
+console.log(final1);

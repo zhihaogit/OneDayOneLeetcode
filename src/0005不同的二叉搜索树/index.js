@@ -20,8 +20,8 @@ class Solution {
 }
 
 
-n = 5
-ins = new Solution()
-final1 = ins.numTrees1(n)
-final2 = ins.numTrees2(n)
-console.log(final1, final2)
+n = 5;
+ins = new Solution();
+final1 = ins.numTrees1(n);
+final2 = ins.numTrees2(n);
+console.log(final1, final2);

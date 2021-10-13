@@ -50,5 +50,3 @@ class Solution:
             reversedNumber = reversedNumber * 10 + x % 10
             x = x // 10
         return x == reversedNumber or x == reversedNumber // 10
-
-

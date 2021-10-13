@@ -28,8 +28,8 @@ class Solution {
 }
 
 
-n = 'abcdeedcb'
-ins = new Solution()
-final1 = ins.longestPalindrome(n)
+n = 'abcdeedcb';
+ins = new Solution();
+final1 = ins.longestPalindrome(n);
 // final2 = ins.numTrees2(n)
-console.log(final1)
+console.log(final1);

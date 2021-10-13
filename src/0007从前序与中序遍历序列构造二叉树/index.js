@@ -33,9 +33,9 @@ class Solution {
   }
 }
 
-preorder = [3, 9, 20, 15, 7]
-inorder = [9, 3, 15, 20, 7]
-ins = new Solution()
-final1 = ins.buildTree(preorder, inorder)
-console.log(final1)
+preorder = [3, 9, 20, 15, 7];
+inorder = [9, 3, 15, 20, 7];
+ins = new Solution();
+final1 = ins.buildTree(preorder, inorder);
+console.log(final1);
     

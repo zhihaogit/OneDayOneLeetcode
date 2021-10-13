@@ -36,12 +36,12 @@ class Solution {
   findMatchChar(tmp) {
     const count0 = tmp.match(/0/g);
     const count1 = tmp.match(/1/g);
-    return [count0 ? count0.length : 0, count1 ? count1.length : 0]
+    return [count0 ? count0.length : 0, count1 ? count1.length : 0];
   }
 
   generateSameCharStr(char, num) {
     return Array.from(new Array(num))
-      .reduce((acc, cv) => `${acc}${char}`, '')
+      .reduce((acc, cv) => `${acc}${char}`, '');
   }
 }
 

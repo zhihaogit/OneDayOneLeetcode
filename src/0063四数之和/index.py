@@ -46,4 +46,3 @@ class Solution:
                         third += 1
                         fourth -= 1
         return res
-

@@ -90,3 +90,4 @@
 77. [0077验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 78. [0078搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 79. [0079在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+80. [0080搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)

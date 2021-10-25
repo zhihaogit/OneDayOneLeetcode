@@ -96,3 +96,5 @@
 83. [0083组合总和](https://leetcode-cn.com/problems/combination-sum/)
 84. [0084组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
 85. [0085字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
+86. [0086跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+87. [0087跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)

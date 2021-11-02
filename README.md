@@ -102,3 +102,4 @@
 89. [0089全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
 90. [0090旋转图像](https://leetcode-cn.com/problems/rotate-image/)
 91. [0091字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
+92. [0092Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)

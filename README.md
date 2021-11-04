@@ -107,3 +107,4 @@
 94. [0094斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 95. [0095第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)
 96. [0096爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+97. [0097使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)

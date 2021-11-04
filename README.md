@@ -106,3 +106,4 @@
 93. [0093最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 94. [0094斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 95. [0095第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)
+96. [0096爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)

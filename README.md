@@ -112,3 +112,4 @@
 99. [0099打家劫舍 II](https://leetcode-cn.com/problems/house-robber/)
 100. [0100删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
 101. [0101环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)
+102. [0102乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)

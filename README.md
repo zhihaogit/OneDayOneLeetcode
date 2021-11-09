@@ -113,3 +113,4 @@
 100. [0100删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
 101. [0101环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)
 102. [0102乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+103. [0103乘积为正数的最长子数组长度](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product/)

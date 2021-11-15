@@ -121,3 +121,4 @@
 108. [0108买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 109. [0109单词拆分](https://leetcode-cn.com/problems/word-break/)
 110. [0110接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+111. [0111等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)

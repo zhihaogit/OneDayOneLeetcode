@@ -122,3 +122,4 @@
 109. [0109单词拆分](https://leetcode-cn.com/problems/word-break/)
 110. [0110接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 111. [0111等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
+112. [0112解码方法](https://leetcode-cn.com/problems/decode-ways/)

@@ -125,3 +125,4 @@
 112. [0112解码方法](https://leetcode-cn.com/problems/decode-ways/)
 113. [0113丑数](https://leetcode-cn.com/problems/ugly-number/)
 114. [0114丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
+115. [0115杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)

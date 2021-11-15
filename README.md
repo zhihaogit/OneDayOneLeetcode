@@ -123,3 +123,5 @@
 110. [0110接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 111. [0111等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
 112. [0112解码方法](https://leetcode-cn.com/problems/decode-ways/)
+113. [0113丑数](https://leetcode-cn.com/problems/ugly-number/)
+114. [0114丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)

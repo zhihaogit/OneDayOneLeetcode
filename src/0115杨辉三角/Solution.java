@@ -16,8 +16,15 @@ import java.util.List;
 // 1 <= numRows <= 30
 
 class Solution {
+  /**
+   * 动态规划
+   * 
+   * @param numRows
+   * @return
+   */
   public List<List<Integer>> generate(int numRows) {
     List<List<Integer>> result = new ArrayList<>();
+    // 形成一个 n行 n列的二维数组
     int[][] dp = new int[numRows][numRows];
     dp[0][0] = 1;
     List<Integer> l = new ArrayList<>();
@@ -26,9 +33,11 @@ class Solution {
     for (int i = 1; i < numRows; i++) {
       List<Integer> tmp = new ArrayList<>();
       for (int j = 0; j <= i; j++) {
+        // 边界条件，最左边为 1
         if (j == 0) {
           dp[i][j] = 1;
         } else {
+          // dp[i][j] = 左上方 + 右上方
           dp[i][j] = dp[i - 1][j] + dp[i - 1][j - 1];
         }
         tmp.add(dp[i][j]);

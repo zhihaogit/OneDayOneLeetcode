@@ -126,3 +126,4 @@
 113. [0113丑数](https://leetcode-cn.com/problems/ugly-number/)
 114. [0114丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
 115. [0115杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
+116. [0116杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)

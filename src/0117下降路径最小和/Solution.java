@@ -33,7 +33,7 @@ class Solution {
    * 
    * 自上而下遍历原数组，修改原数组，当前行的最小值加上上一行的最小值
    * 
-   * 动态转移方程：f[i][j] = min(f[i - 1][j - 1], f[i - 1][j], f[i - 1][j + 1])
+   * 动态转移方程：f[i][j] = min(f[i - 1][j - 1], f[i - 1][j], f[i - 1][j + 1]) + c[i][j]
    * 
    * @param matrix
    * @return

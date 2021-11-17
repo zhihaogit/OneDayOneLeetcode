@@ -33,7 +33,7 @@ class Solution {
   /**
    * 动态规划
    * 
-   * 状态转义方程： f[i][j] = f[i - 1][j] + f[i][j - 1]
+   * 状态转移方程： f[i][j] = f[i - 1][j] + f[i][j - 1]
    * 
    * @param m
    * @param n

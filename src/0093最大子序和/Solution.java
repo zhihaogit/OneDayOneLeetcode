@@ -30,7 +30,7 @@
 class Solution {
   /**
    * 动态规划
-   * 状态转义方程：f(i) = max(f(i - 1) + nums[i], nums[i])
+   * 状态转移方程：f(i) = max(f(i - 1) + nums[i], nums[i])
    * f(i)代表以第 i个数结尾的连续子数组的最大和
    *
    * @param nums

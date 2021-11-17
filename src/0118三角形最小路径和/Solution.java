@@ -31,7 +31,7 @@ class Solution {
   /**
    * 动态规划
    * 
-   * 状态转义方程：f[i][j] = min(f[i - 1][j], f[i - 1][j - 1]) + c[i][j]
+   * 状态转移方程：f[i][j] = min(f[i - 1][j], f[i - 1][j - 1]) + c[i][j]
    * 
    * @param triangle
    * @return

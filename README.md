@@ -132,3 +132,4 @@
 119. [0119不同路径](https://leetcode-cn.com/problems/unique-paths/)
 120. [0120不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
 121. [0121颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+122. [0122合并区间](https://leetcode-cn.com/problems/merge-intervals/)

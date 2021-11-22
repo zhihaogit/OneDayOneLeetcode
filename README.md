@@ -136,3 +136,4 @@
 123. [0123最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 124. [0124最大正方形](https://leetcode-cn.com/problems/maximal-square/)
 125. [0125最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
+126. [0126最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)

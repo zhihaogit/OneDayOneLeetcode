@@ -139,3 +139,4 @@
 126. [0126最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 127. [0127摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 128. [0128判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
+129. [0129最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)

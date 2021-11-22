@@ -137,3 +137,4 @@
 124. [0124最大正方形](https://leetcode-cn.com/problems/maximal-square/)
 125. [0125最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 126. [0126最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+127. [0127摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)

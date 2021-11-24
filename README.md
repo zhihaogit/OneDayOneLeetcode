@@ -144,3 +144,5 @@
 131. [0131零钱兑换](https://leetcode-cn.com/problems/coin-change/)
 132. [0132零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)
 133. [0133组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
+134. [0134整数拆分](https://leetcode-cn.com/problems/integer-break/)
+135. [0135完全平方数](https://leetcode-cn.com/problems/perfect-squares/)

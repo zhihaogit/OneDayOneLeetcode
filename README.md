@@ -146,3 +146,4 @@
 133. [0133组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
 134. [0134整数拆分](https://leetcode-cn.com/problems/integer-break/)
 135. [0135完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
+136. [0136子集](https://leetcode-cn.com/problems/subsets/)

@@ -148,3 +148,4 @@
 135. [0135完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
 136. [0136子集](https://leetcode-cn.com/problems/subsets/)
 137. [0137子集 II](https://leetcode-cn.com/problems/subsets-ii/)
+138. [0138单词搜索](https://leetcode-cn.com/problems/word-search/)

@@ -150,3 +150,4 @@
 137. [0137子集 II](https://leetcode-cn.com/problems/subsets-ii/)
 138. [0138单词搜索](https://leetcode-cn.com/problems/word-search/)
 139. [0139最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+140. [0140只出现一次的数字](https://leetcode-cn.com/problems/single-number/)

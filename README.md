@@ -149,3 +149,4 @@
 136. [0136子集](https://leetcode-cn.com/problems/subsets/)
 137. [0137子集 II](https://leetcode-cn.com/problems/subsets-ii/)
 138. [0138单词搜索](https://leetcode-cn.com/problems/word-search/)
+139. [0139最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)

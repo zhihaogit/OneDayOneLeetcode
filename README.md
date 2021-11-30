@@ -153,3 +153,4 @@
 140. [0140只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 141. [0141环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 142. [0142环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+143. [0143排序链表](https://leetcode-cn.com/problems/sort-list/)

@@ -154,3 +154,4 @@
 141. [0141环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 142. [0142环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 143. [0143排序链表](https://leetcode-cn.com/problems/sort-list/)
+144. [0144对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)

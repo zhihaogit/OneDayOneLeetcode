@@ -156,3 +156,4 @@
 143. [0143排序链表](https://leetcode-cn.com/problems/sort-list/)
 144. [0144对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 145. [0145最小栈](https://leetcode-cn.com/problems/min-stack/)
+146. [0146相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)

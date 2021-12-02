@@ -159,3 +159,4 @@
 146. [0146相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 147. [0147多数元素](https://leetcode-cn.com/problems/majority-element/)
 148. [0148求众数 II](https://leetcode-cn.com/problems/majority-element-ii/)
+149. [0149反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)

@@ -162,3 +162,4 @@
 149. [0149反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 150. [0150岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 151. [0151课程表](https://leetcode-cn.com/problems/course-schedule/)
+152. [0152课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
